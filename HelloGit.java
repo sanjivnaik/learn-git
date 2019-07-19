@@ -1,2 +1,2 @@
-class HelloGit {
+public class HelloGit {
 }
